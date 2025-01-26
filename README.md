@@ -1,2 +1,3 @@
-# fast_gov
-Speed Test of Government Websites
+## FastGov: How Fast Are Government Websites?
+
+We speed-test government websites to produce metrics on responsiveness.
